@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FB914929-6B75-405B-909F-D777C1C1CD82}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iBayProjet/Model/panier.cs">
+    <Files>
+      <File FileName="iBayProjet/product.cs" Line="8" Column="42" />
+      <File FileName="iBayProjet/Model/user.cs" Line="8" Column="36" />
+      <File FileName="iBayProjet/panier.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="iBayProjet" expanded="True">
+            <Node name="iBayProjet">
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.iBayProjet PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
